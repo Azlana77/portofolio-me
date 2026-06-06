@@ -94,7 +94,8 @@ Ditampilkan sebagai proyek web development. Screenshot panjang harus ditampilkan
 * src/index.css
 * public/CV-Azis-Maulana.pdf
 * public/azis-profile.jpg
-* public/hotel-twin-star.png
+* public/lampu-batik.jpg
+* public/hotel-twin-star.jpg
 * public/erd-simpus.png
 * README.md
 * TASKLIST.md

@@ -9,10 +9,11 @@
 
 ## Assets
 
-* [ ] Menambahkan CV PDF ke folder public
-* [ ] Menambahkan foto profil
-* [ ] Menambahkan screenshot Hotel Twin Star
-* [ ] Menambahkan gambar ERD SIMPUS
+* [x] Menambahkan CV PDF ke folder public
+* [x] Menambahkan foto profil
+* [x] Menambahkan gambar lampu batik
+* [x] Menambahkan screenshot Hotel Twin Star
+* [x] Menambahkan gambar ERD SIMPUS
 
 ## Development
 

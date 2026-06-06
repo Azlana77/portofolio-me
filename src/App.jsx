@@ -77,6 +77,8 @@ const projects = [
     tech: ['Arduino Nano', 'HC-05', 'Bluetooth', 'Relay', 'Lampu Seri dan Paralel'],
     description:
       'Membangun sistem kontrol lampu hias batik menggunakan Arduino Nano dan modul Bluetooth HC-05. Sistem memungkinkan pengguna mengontrol lampu melalui smartphone tanpa perlu menggunakan saklar manual.',
+    image: '/lampu-batik.jpg',
+    imageAlt: 'Dokumentasi sistem kendali lampu hias batik',
     badge: 'Published Article',
     featured: true,
     icon: CircuitBoard,
@@ -111,7 +113,7 @@ const projects = [
     title: 'Web Reservasi Hotel Twin Star',
     category: 'Web Development',
     tech: ['Laravel', 'Tailwind CSS', 'AI-Assisted Development'],
-    image: '/hotel-twin-star.png',
+    image: '/hotel-twin-star.jpg',
     imageAlt: 'Screenshot website reservasi Hotel Twin Star',
     description:
       'Mengembangkan website reservasi hotel dengan bantuan alur kerja AI-assisted development. Fitur utama meliputi manajemen user Admin dan Public serta CRUD untuk pengelolaan reservasi kamar.',
